@@ -1,0 +1,9 @@
+c:\users\jake_000\documents\visual studio 2013\Projects\readWrite\bin\Debug\readWrite.exe.config
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\bin\Debug\readWrite.exe
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\bin\Debug\readWrite.pdb
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.csprojResolveAssemblyReference.cache
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.Form1.resources
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.Properties.Resources.resources
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.csproj.GenerateResource.Cache
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.exe
+C:\Users\jake_000\documents\visual studio 2013\Projects\readWrite\obj\Debug\readWrite.pdb

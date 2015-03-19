@@ -1,0 +1,9 @@
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\bin\Debug\XMapL.exe.config
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\obj\Debug\XMapL.Form1.resources
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\obj\Debug\XMapL.Properties.Resources.resources
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\obj\Debug\XMapL.csproj.GenerateResource.Cache
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\bin\Debug\XMapL.exe
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\bin\Debug\XMapL.pdb
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\obj\Debug\XMapL.exe
+c:\users\jake_000\documents\visual studio 2013\Projects\XMapL\obj\Debug\XMapL.pdb
+C:\Users\jake_000\Documents\Visual Studio 2013\Projects\XMapL\obj\Debug\XMapL.csprojResolveAssemblyReference.cache
